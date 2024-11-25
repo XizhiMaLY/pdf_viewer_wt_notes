@@ -1,5 +1,5 @@
 # pdf_viewer_wt_notes
-<img src="icon.png" width="5%">
+<img src="icon.png" width="25%">
 A pdf notes app, simple but slow to start
 
 <img src="截屏2024-11-25 20.52.43.png" width="50%">
